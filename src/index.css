@@ -1,0 +1,36 @@
+/* index.css */
+
+/* General body background */
+body {
+  background: linear-gradient(135deg, #ffffff, #ffffff); /* Deep navy blue to black */
+  color: white; /* Default text color */
+  font-family: 'Arial', sans-serif; /* Add a clean, modern font */
+  margin: 0;
+  padding: 0;
+}
+
+/* Global button styles */
+button {
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+/* Global link styles */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Utility classes */
+.text-center {
+  text-align: center;
+}
+
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
