@@ -46,8 +46,8 @@ const Header = () => {
     <nav className={`navbar navbar-expand-lg fixed-top ${navbarClass}`}>
       <div className="container">
         {/* Logo or Brand Name */}
-        <img src="/images/logo.png" alt="WealthWise Logo" className="navbar-logo" style={{ marginRight: '10px' }} />
-        <Link to="/" className="navbar-brand">MsquareOne</Link>
+        <img src="/images/Vector256x256.png" alt="Squareone.finance" className="navbar-logo" style={{ marginRight: '10px' }} />
+        <Link to="/" className="navbar-brand">SquareOne</Link>
         {/* Toggle Button for Mobile View */}
         <button
           className="navbar-toggler"
